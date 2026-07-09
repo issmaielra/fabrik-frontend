@@ -1,0 +1,7 @@
+fabrik-frontend/
+  pyproject.toml
+  src/
+    fabrik_frontend/
+      __init__.py
+  .python-version
+  README.md
